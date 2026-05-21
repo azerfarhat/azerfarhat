@@ -3,7 +3,6 @@
 <h3 align="center">Software Developer | Always Learning | Web Apps Builder & Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azerfarhat&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://azer-mocha.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-azer--mocha.vercel.app-blue?style=flat&logo=vercel" alt="portfolio" />
   </a>
